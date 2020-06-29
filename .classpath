@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Mahmoud Saad/Downloads/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahmoud Saad/Downloads/slf4j-simple-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahmoud Saad/Downloads/camel-core-2.19.1.jar" sourcepath="C:/Users/Mahmoud Saad/.m2/repository/org/apache/camel/camel-core/2.19.1/camel-core-2.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mahmoud Saad/Downloads/apache-camel-2.19.1/lib/camel-stream-2.19.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
